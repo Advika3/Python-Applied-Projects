@@ -17,7 +17,7 @@ Developed during an internship, this tool automates the **Risk Assessment** phas
 
 ---
 
-## 📁 Assignment Solutions Overview
+## 📁 Real-World Applications and Core Logic Codes
 
 ### 1. Data Science & Advanced Analytics (NumPy & Pandas)
 * **Array Statistics:** Computes mean, median, standard deviation, and identifies peak value indices.
