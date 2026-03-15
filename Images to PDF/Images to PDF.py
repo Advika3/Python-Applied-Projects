@@ -1,6 +1,10 @@
 from PIL import Image
 import os
 
+# NOTE:
+# This script currently reads images from a folder named "Trial"
+# located inside the Documents directory.
+# Change the path below if your images are stored elsewhere.
 
 image_folder = "C:/Users/*YOUR NAME*/Documents/Trial"
 
