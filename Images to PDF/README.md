@@ -1,4 +1,4 @@
-# Images to PDF Converter (Python)
+# Images to PDF Converter 
 
 A simple Python script that converts multiple images into a single PDF document.
 Uses file handling and image processing.
