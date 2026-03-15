@@ -12,7 +12,7 @@ It helped me to convert screenshots to PDF for college assignments :))
   * `.jpg`
   * `.jpeg`
   * `.png`
-  * 
+    
 * Images are added to the PDF in alphabetical order
 * Uses Python libraries for image handling
 
