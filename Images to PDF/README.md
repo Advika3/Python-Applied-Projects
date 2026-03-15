@@ -31,24 +31,19 @@ It helped me to convert screenshots to PDF for college assignments :))
    the images on a white A4 and converts to PDF.
 6. The final PDF is saved in the same folder.
 
-## Example Folder Structure
+## Images
 
-```
-Trial/
- ├── image1.jpg
- ├── image2.png
- ├── image3.jpg
-```
+### Files in the specified folder:
+![Files in folder](images/Images%20in%20folder.png)
 
-After running the script:
+### Folder containing the output (A4 PDF):
+![Output A4 PDF](images/Folder%20with%20result.png)
 
-```
-Trial/
- ├── image1.jpg
- ├── image2.png
- ├── image3.jpg
- └── images_output.pdf
-```
+### How the A4 PDF looks:
+![A4 PDF](images/A4%20PDF%20of%20images.png)
+
+### How the PDF looks (not A4):
+![Simple PDF](images/Images%20to%20PDF.png)
 
 ## Current Configuration
 
