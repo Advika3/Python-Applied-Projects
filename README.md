@@ -17,7 +17,7 @@ Developed during an internship, this tool automates the **Risk Assessment** phas
 
 ---
 
-## 📁 Real-World Applications and Core Logic Codes
+## 🧠 Real-World Applications and Core Logic Codes
 
 ### 1. Data Science & Advanced Analytics (NumPy & Pandas)
 * **Array Statistics:** Computes mean, median, standard deviation, and identifies peak value indices.
@@ -33,4 +33,18 @@ Developed during an internship, this tool automates the **Risk Assessment** phas
 * **Smart Grader:** Processes marks to calculate averages and assign letter grades. 
 * **Triangle Validator:** Classifies triangles as Equilateral, Isosceles, Scalene, or Right-angled. 
 * **Menu-Driven Tools:** Interface for checking Prime numbers, Palindromes, and Factorials.
+
+---
+
+## 📁 Image to PDF Conversions
+
+A simple Python script that converts multiple images into a single PDF document.
+This project was created while learning Python basics and practicing file handling and image processing.
+It supports common image formats,`.jpg`, `.jpeg`, `.png`. Images are added to the PDF in alphabetical order
+
+### Technologies Used
+
+* Python
+* Pillow (Python Imaging Library)
+* OS module for file handling
 
