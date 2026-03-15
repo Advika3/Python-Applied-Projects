@@ -34,16 +34,16 @@ It helped me to convert screenshots to PDF for college assignments :))
 ## Images
 
 ### Files in the specified folder:
-![Files in folder](images/Images%20in%20folder.png)
+![Files in folder](images/Images_in_folder.png)
 
 ### Folder containing the output (A4 PDF):
-![Output A4 PDF](images/Folder%20with%20result.png)
+![Output A4 PDF](images/Folder_with_result.png)
 
 ### How the A4 PDF looks:
-![A4 PDF](images/A4%20PDF%20of%20images.png)
+![A4 PDF](images/A4_PDF_of_images.png)
 
 ### How the PDF looks (not A4):
-![Simple PDF](images/Images%20to%20PDF.png)
+![Simple PDF](images/Images_to_PDF.png)
 
 ## Current Configuration
 
